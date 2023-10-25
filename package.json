@@ -1,0 +1,15 @@
+{
+  "name": "Portrip",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DaniellTec",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react-hook-form": "^7.46.1"
+  }
+}
